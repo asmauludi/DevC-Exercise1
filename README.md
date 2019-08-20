@@ -1,2 +1,2 @@
-# DevC JavaScript Development Course
-Exercise 1
+# Batch-30-Latihan1
+latihan pertama hacktiv8 JSDC
